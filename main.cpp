@@ -25,7 +25,7 @@
 #include <string>
 #include <fstream>
 #include <iomanip>
-#include <conio.h>
+#include <ncurses.h>
 
 
 using namespace std;
